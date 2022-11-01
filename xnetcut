@@ -9,7 +9,7 @@ OCTETS=$(cat octets.txt)
 #start netcut
 nc -lnvp 88 -s $OCTETS
 
-
+#This script is to automate netcut listener
 
 
 
