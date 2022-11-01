@@ -1,0 +1,25 @@
+#!/bin/bash 
+
+#get first octets of network ip
+ifconfig | grep "broadcast" | cut -d " " -f 10 | cut -d "." -f 1,2,3,4 | uniq > octets.txt
+
+#set variable to have the value of octets.txt
+OCTETS=$(cat octets.txt)
+
+#start netcut
+nc -lnvp 88 -s $OCTETS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
