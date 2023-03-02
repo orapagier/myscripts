@@ -1,0 +1,236 @@
+Origin URL: android://YkXRwEuRToWqlWbwaPViqA5v8K39jfFGcyTFo8whh1QG37q_nG_ppTwnsPLQvxmNtcx5VbA4tQE7tMGMhqaJoA==@com.bandlab.bandlab/
+Action URL: 
+Username: qrequerme27@gmail.com
+Password: 
+==================================================
+Origin URL: android://vYdSPYLHv_TzgRh_vQ99cdINokurjIVrdmXeSR3O04qubhGXj0ZtqKult__qfVhi8VTIr-tNRaL6sNWVI5RfVQ==@com.bigheadtechies.diary/
+Action URL: 
+Username: qrequerme27@gmail.com
+Password: 
+==================================================
+Origin URL: https://masaolms.carsu.edu.ph/login/index.php
+Action URL: https://masaolms.carsu.edu.ph/login/index.php
+Username: 181-01513
+Password: Lemronieldelligos_27
+Creation date: 2021-05-11 23:43:32.263169
+Last Used: 2022-07-06 22:01:52.245206
+==================================================
+Origin URL: http://192.168.254.254/index.html
+Action URL: http://192.168.254.254/index.html
+Username: user
+Password: @l03e1t3
+Creation date: 2021-05-16 02:34:43.594208
+Last Used: 2023-02-01 10:25:40.625738
+==================================================
+Origin URL: https://www.netflix.com/ph/login
+Action URL: https://www.netflix.com/ph/login
+Username: lyjieme@gmail.com
+Password: Bads@2k20
+Creation date: 2021-06-28 21:27:08.859676
+Last Used: 2021-06-28 21:26:58.950037
+==================================================
+Origin URL: https://sso.carsu.edu.ph/sso/module.php/core/loginuserpassorg.php
+Action URL: https://sso.carsu.edu.ph/sso/module.php/core/loginuserpassorg.php
+Username: querypearlvyn.requerme
+Password: Requerme0987654321
+Creation date: 2021-07-05 08:27:34.249222
+Last Used: 2023-02-13 01:01:03.523864
+==================================================
+Origin URL: https://www.coursera.org/learn/astro
+Action URL: javascript:void(0)
+Username: qrequerme27@gmail.com
+Password: Lemronieldelligos27
+Creation date: 2021-07-15 13:28:09.122203
+Last Used: 2022-07-06 21:41:15.399980
+==================================================
+Origin URL: https://sso.carsu.edu.ph/sso/module.php/core/loginuserpassorg.php
+Action URL: https://sso.carsu.edu.ph/sso/module.php/core/loginuserpassorg.php
+Username: lenijane.biong
+Password: 09968846402
+Creation date: 2021-07-20 06:20:06.813947
+Last Used: 2021-09-07 08:02:43.857899
+==================================================
+Origin URL: https://accounts.google.com/signin/v2/challenge/pwd
+Action URL: https://accounts.google.com/signin/v2/challenge/password/empty
+Username: crisredoble13@gmail.com
+Password: crissastre13
+Creation date: 2021-07-30 00:26:12.057610
+Last Used: 2021-08-06 02:10:08.630116
+==================================================
+Origin URL: https://masaolms.carsu.edu.ph/login/index.php
+Action URL: https://masaolms.carsu.edu.ph/login/index.php
+Username: 181-00224
+Password: BUANGka1*
+Creation date: 2021-07-30 00:49:36.186693
+Last Used: 2022-03-16 06:06:54.837193
+==================================================
+Origin URL: https://eavtrade.com/login
+Action URL: https://eavtrade.com/login
+Username: Queryrequerme
+Password: lemronieldelligos27
+Creation date: 2021-08-15 22:18:16.779662
+Last Used: 2021-08-17 06:49:08.959843
+==================================================
+Origin URL: android://zQxb6hXv1MJiC1Yyotdhi8HP-y7fwPcOLwPOWTwWKpP2VXcbsuIiI4iJ1KV0Dz3LzVsUuKJmYCBIUAxnsPB9FA==@com.facebook.katana/
+Action URL: 
+Username: qrequerme27@gmail.com
+Password: Requerme270987654321
+Creation date: 2021-08-29 14:17:40.449000
+Last Used: 2023-02-12 08:29:49.583711
+==================================================
+Origin URL: android://YkXRwEuRToWqlWbwaPViqA5v8K39jfFGcyTFo8whh1QG37q_nG_ppTwnsPLQvxmNtcx5VbA4tQE7tMGMhqaJoA==@com.bandlab.bandlab/
+Action URL: 
+Username: qrequerme
+Password: Lemronieldelligos27
+Creation date: 2021-09-01 05:31:20.461000
+==================================================
+Origin URL: https://localhost/
+Action URL: 
+Username: 181-01513
+Password: Lemronieldelligos_27
+Creation date: 2021-09-02 00:15:05.303000
+==================================================
+Origin URL: https://amcci.wela.ph/login
+Action URL: https://amcci.wela.ph/login
+Username: REQUERMECRYSTALFAITH@wela.online
+Password: SYRJWGBB
+Creation date: 2021-09-08 04:42:01.652481
+Last Used: 2021-09-08 04:41:45.383465
+==================================================
+Origin URL: https://e-tesda.gov.ph/login/index.php
+Action URL: https://e-tesda.gov.ph/login/index.php
+Username: qrequerme27
+Password: Lemronieldelligos27
+Creation date: 2021-10-13 23:33:59.273222
+Last Used: 2022-06-21 03:31:20.403343
+==================================================
+Origin URL: http://192.168.254.254/index.html
+Action URL: http://192.168.254.254/index.html
+Username: GlobeAtHome_1BA2B
+Password: 12345
+Creation date: 2021-10-18 12:04:43.499909
+Last Used: 2022-01-22 03:13:25.937910
+==================================================
+Origin URL: https://auth.genial.ly/signup
+Action URL: https://auth.genial.ly/signup
+Username: querypearlvyn.requerme@carsu.edu.ph
+Password: lemronieldelligos27
+Creation date: 2021-12-02 00:22:06.426014
+Last Used: 2021-12-02 00:21:38.396518
+==================================================
+Origin URL: https://sso.carsu.edu.ph/
+Action URL: 
+Username: querypearlvyn.requerme
+Password: Requerme0987654321
+Creation date: 2022-01-31 07:00:06.137000
+==================================================
+Origin URL: https://sso.carsu.edu.ph/sso/module.php/core/loginuserpassorg.php
+Action URL: https://sso.carsu.edu.ph/sso/module.php/core/loginuserpassorg.php
+Username: cris.redoble
+Password: crisredoble13
+Creation date: 2022-02-02 07:00:37.779523
+Last Used: 2022-02-02 07:00:29.309602
+==================================================
+Origin URL: https://m.facebook.com/login/device-based/password/
+Action URL: https://m.facebook.com/login/device-based/validate-password/
+Username: 
+Password: pearlvyn27
+Creation date: 2022-02-07 23:48:31.624968
+Last Used: 2022-06-21 03:06:10.553616
+==================================================
+Origin URL: http://192.168.8.1/index.html
+Action URL: http://192.168.8.1/index.html
+Username: admin
+Password: admin
+Creation date: 2022-02-23 08:59:50.510170
+Last Used: 2022-03-28 03:14:24.353928
+==================================================
+Origin URL: https://www.facebook.com/
+Action URL: https://www.facebook.com/login/device-based/regular/login/
+Username: 
+Password: pearlvyn27
+Creation date: 2022-02-28 23:52:09.678667
+Last Used: 2022-03-29 10:28:36.067369
+==================================================
+Origin URL: https://mobile.facebook.com/
+Action URL: 
+Username: requermequerypearlvyn@gmail.com
+Password: Requerme0987654321
+Creation date: 2022-03-05 10:43:13.626000
+==================================================
+Origin URL: https://m.facebook.com/
+Action URL: 
+Username: 09483208045
+Password: Requerme0987654321
+Creation date: 2022-03-06 08:01:48.425000
+==================================================
+Origin URL: https://slidemodel.com/account/signin/
+Action URL: https://slidemodel.com/account/signin/
+Username: querypearlvyn.requerme@carsu.edu.ph
+Password: Requerme0987654321
+Creation date: 2022-03-15 07:01:51.061067
+Last Used: 2022-03-15 07:01:21.127613
+==================================================
+Origin URL: https://www.facebook.com/
+Action URL: https://www.facebook.com/login/
+Username: 09483208045
+Password: Requerme0987654321
+Creation date: 2022-03-16 02:13:19.559869
+Last Used: 2022-03-16 02:11:30.233391
+==================================================
+Origin URL: https://admission.carsu.edu.ph/sites/online_appointment/
+Action URL: https://admission.carsu.edu.ph/sites/online_appointment/
+Username: 2022-02608
+Password: 2004-04-05
+Creation date: 2022-03-22 14:31:51.994138
+Last Used: 2022-04-20 00:15:11.001692
+==================================================
+Origin URL: https://online.prc.gov.ph/Validate/v1/vFVyrfZFOJsZCrgCqk09SmJuQ%25252B0JGlHvwFgLFOiBdSs%25253D
+Action URL: 
+Username: qrequerme27@gmail.com
+Password: Requerme_0987654321
+Creation date: 2022-04-26 07:55:04.776741
+Last Used: 2022-04-26 08:01:55.548900
+==================================================
+Origin URL: https://online.prc.gov.ph/Home
+Action URL: https://online.prc.gov.ph/Home
+Username: qrequerme27@gmail.com
+Password: Requerme_0987654321
+Creation date: 2022-04-26 10:30:34.551325
+Last Used: 2022-04-26 10:29:46.373560
+==================================================
+Origin URL: https://pass.buri.io/users/edit
+Action URL: https://pass.buri.io/users
+Username: 
+Password: Requerme0987654321
+Creation date: 2022-07-11 04:00:46.482721
+Last Used: 2022-07-11 04:00:41.484731
+==================================================
+Origin URL: https://sso.carsu.edu.ph/sso/module.php/core/loginuserpassorg.php
+Action URL: https://sso.carsu.edu.ph/sso/module.php/core/loginuserpassorg.php
+Username: exceldave.requerme
+Password: Requerme05
+Creation date: 2022-08-09 18:20:52.477392
+Last Used: 2022-10-06 23:24:03.766307
+==================================================
+Origin URL: https://myschool.carsu.edu.ph/index.php
+Action URL: https://myschool.carsu.edu.ph/index.php
+Username: EXCEL DAVE REQUERME
+Password: Requerme05
+Creation date: 2022-08-09 18:24:40.314524
+Last Used: 2022-08-09 18:24:36.977596
+==================================================
+Origin URL: https://masaolms.carsu.edu.ph/login/index.php
+Action URL: https://masaolms.carsu.edu.ph/login/index.php
+Username: 221-01997
+Password: April 5,2004
+Creation date: 2022-09-29 11:20:53.217526
+Last Used: 2022-09-29 11:20:42.601493
+==================================================
+Origin URL: http://192.168.100.1:20097/local/auth/custom/portal.htm
+Action URL: 
+Username: query
+Password: 082799
+Creation date: 2023-02-13 00:44:31.344309
+Last Used: 2023-02-13 08:04:20.183591
+==================================================
