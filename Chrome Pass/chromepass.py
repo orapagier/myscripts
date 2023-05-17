@@ -35,8 +35,6 @@ def onstart():
     tkinter.messagebox.showinfo("Welcome to Chrome Password Retriever!",  "Please use with permission!")  
 
 
-
-
 def get_chrome_datetime(chromedate):
     """Return a `datetime.datetime` object from a chrome format datetime
     Since `chromedate` is formatted as the number of microseconds since January, 1601"""
@@ -74,7 +72,6 @@ def decrypt_password(password, key):
         except:
             # not supported
             return ""
-
 
 def main():
     # get the AES key
@@ -137,9 +134,7 @@ def main():
     except:
         pass
 
-
-
-#function to print subprocess on gui screen
+# function to print subprocess on gui screen
 def readchromepass():
         f = open("ChromePass.txt", "r")
         chromepass = f.read()
@@ -159,7 +154,6 @@ readbutton.pack()
 root.eval('tk::PlaceWindow . center')
 
 
-
 if __name__ == "__main__":
 #Starting popup message
     onstart()
@@ -172,5 +166,4 @@ if __name__ == "__main__":
 #                                                             #
 #                Copyright © 2022 Jelmar Orapa                #
 ###############################################################
-
 
