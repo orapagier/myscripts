@@ -52,7 +52,7 @@ class MyWebBrowser(QMainWindow):
         # Load the HTML file into the browser widget
         self.browser.load(QUrl.fromLocalFile(file_path))
 
-        # Show the main window
+        # Show the main window...
         self.show()
 
     def go_home(self):
@@ -86,8 +86,7 @@ class MyWebBrowser(QMainWindow):
 
         # Load the HTML file into the browser widget
         self.browser.load(QUrl.fromLocalFile(file_path))
-
-
+
 # Create a QApplication instance, a MyWebBrowser instance, and execute the application
 app = QApplication([])
 window = MyWebBrowser()
